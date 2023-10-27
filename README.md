@@ -16,9 +16,42 @@ NetflixGPT is a dynamic movie recommendation web application built using ReactJS
 - Firebase Setup
 - Deploying our app to production
 - Create a SignUp User Account
-- Implement Sign-user Api
+- Implement Sign-user API
 - Created Redux Store with userSlice
 - Implemented Sign out
+- Update Profile
+- BugFix: Signup user display and profile picture update
+- BugFix: If the user is not logged in redirect /browse to login page and vice versa
+- UnSubscribed to the on onAuthStateChanged callback
+- Add hardcoded values to the constant file
+- Register TMDB API & create an app & get access token
+- Get Data from TMDB now playing movies list API
+- Custom Hook for Now Playing Movies
+- Create movieSlice
+- Update Store with movies Data
+- Planning for MainContauiner & secondary container
+- Fetch Data for Trailer Video
+- Update Store with Trailer Video Data
+- Embedded the Yotube video and make it autoplay and mute
+- Tailwind Classes to make Main Container look pleasing
+- Build Secondary Container.
+- Build Movie List
+- Build Movie Card
+- TMDB Image CDN URL
+- Made the Browsre page amazing with Tailwind CSS
+- useNowPlayingMovies Custom hook
+- Get Open AI Api Key
+- (BONUS) Multi-language Feature in our App
+- GPT Search Page
+- GPT Search Bar
+- Gpt Search API Call
+- Fetched gptMoviesSuggestions from TMDB
+- Created gptSlice added data
+- Resused Movie List component to make movie suggestion container
+- Memoization - Memoization is used to optimize the performance of functions by caching the results   of expensive function calls and reusing those results when the same inputs occur again.
+- Added .env file
+- Adding .env file to gitignore
+- Made our Site Responsive.
 
 
 # Features
