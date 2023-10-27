@@ -1,4 +1,12 @@
-    # Netflix GPT
+# NetflixGPT
+
+NetflixGPT is a dynamic movie recommendation web application built using ReactJS, Tailwind CSS, Redux Toolkit, and GPT APIs. It leverages Firebase Authentication for user login and incorporates a range of exciting features such as custom hooks, language change options, infinite scroll, memoization, modularity, responsiveness, protected routes, and code reusability.
+
+
+
+
+
+# Netflix GPT operations
 
 - Create React App
 - Configured Tailwind CSS

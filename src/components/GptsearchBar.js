@@ -33,9 +33,9 @@ const GptsearchBar = () => {
       model: "gpt-3.5-turbo",
     });
 
-    if (!gptResults.choices) {
+    // if (!gptResults.choices) {
       navigate("/error");
-    }
+    // }
 
    
     const gptMovies = gptResults.choices?.[0]?.message.content.split(",");

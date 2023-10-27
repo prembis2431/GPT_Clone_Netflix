@@ -8,8 +8,8 @@ const VideoTitle = ({title, overview}) => {
  const languagekey = useSelector(store=> store.config.lang)
 
   return (
-    <div className=' mt-3 md:w-screen aspect-video pt-[18%] px-20 absolute text-white bg-gradient-to-r from-black'>
-      <h1 className=' mt-12 text-2xl md:text-6xl font-bold'>{title}</h1>
+    <div className=' pt-[10%] md:w-screen aspect-video pt-[18%] px-20 absolute text-white bg-gradient-to-r from-black'>
+      <h1 className=' mt-10 text-2xl md:text-6xl font-bold'>{title}</h1>
       <p className='hidden md:inline-block py-6 text-lg w-1/3'>{overview}</p>
       <div className="mt-6 md:mt-0">
         <button className='px-8 text-lg bg-white text-black md:py-3 md:px-9 font-bold md:text-xl rounded-md hover:bg-opacity-70'>{lang[languagekey].play}</button>

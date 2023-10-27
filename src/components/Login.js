@@ -14,16 +14,16 @@ import { BG_IMG, USER_AVATAR } from "../utils/constants";
 const Login = () => {
   const [isSignInForm, setIsSignInFom] = useState(true);
   const [ErrorMessage, setErrorMessage] = useState(null);
-  const [expanded, setExpanded] = useState(false);
+  // const [expanded, setExpanded] = useState(false);
   const dispatch = useDispatch();
 
   const name = useRef(null);
   const email = useRef(null);
   const password = useRef(null);
 
-  const ToggleExpansion = () => {
-    setExpanded(!expanded);
-  };
+  // const ToggleExpansion = () => {
+  //   setExpanded(!expanded);
+  // };
 
   const ToggleSignInForm = () => {
     setIsSignInFom(!isSignInForm);
