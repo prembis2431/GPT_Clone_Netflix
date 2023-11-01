@@ -3,6 +3,44 @@
 NetflixGPT is a dynamic movie recommendation web application built using ReactJS, Tailwind CSS, Redux Toolkit, and GPT APIs. It leverages Firebase Authentication for user login and incorporates a range of exciting features such as custom hooks, language change options, infinite scroll, memoization, modularity, responsiveness, protected routes, and code reusability.
 
 
+# Output
+![1](https://github.com/prembis2431/GPT_Clone_Netflix/assets/125336211/28563306-d5b6-4e85-9a79-4f087513d23d)
+
+![2](https://github.com/prembis2431/GPT_Clone_Netflix/assets/125336211/be733325-9623-4091-9e40-625ee7cb8b60)
+
+![3](https://github.com/prembis2431/GPT_Clone_Netflix/assets/125336211/e74859e8-76b8-4add-b8df-578953959fc0)
+
+![4](https://github.com/prembis2431/GPT_Clone_Netflix/assets/125336211/946e7fa0-a6dd-4c7f-b196-48cb2c0d5163)
+
+![5](https://github.com/prembis2431/GPT_Clone_Netflix/assets/125336211/85d8c15a-96b3-465b-bbf2-a707f2effed3)
+
+![6](https://github.com/prembis2431/GPT_Clone_Netflix/assets/125336211/171aa8d0-a6bf-49ed-9a7b-e9c49ec518ca)
+
+![7](https://github.com/prembis2431/GPT_Clone_Netflix/assets/125336211/0fe5ebab-b9db-49c7-b8d0-cd5e7821b3a5)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Netflix GPT operations
 
 - Create React App
