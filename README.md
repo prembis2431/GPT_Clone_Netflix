@@ -4,40 +4,20 @@ NetflixGPT is a dynamic movie recommendation web application built using ReactJS
 
 
 # Output
-![1](https://github.com/prembis2431/GPT_Clone_Netflix/assets/125336211/28563306-d5b6-4e85-9a79-4f087513d23d)
 
-![2](https://github.com/prembis2431/GPT_Clone_Netflix/assets/125336211/be733325-9623-4091-9e40-625ee7cb8b60)
+![1](https://github.com/prembis2431/GPT_Clone_Netflix/assets/125336211/b2b28611-4c16-4414-ae77-d46fe79327d8)
 
-![3](https://github.com/prembis2431/GPT_Clone_Netflix/assets/125336211/e74859e8-76b8-4add-b8df-578953959fc0)
+![2](https://github.com/prembis2431/GPT_Clone_Netflix/assets/125336211/f53843f1-b56a-4f49-90c8-7ec846f56a45)
 
-![4](https://github.com/prembis2431/GPT_Clone_Netflix/assets/125336211/946e7fa0-a6dd-4c7f-b196-48cb2c0d5163)
+![3](https://github.com/prembis2431/GPT_Clone_Netflix/assets/125336211/bf225088-ad40-4e4f-9ccb-79952067ea57)
 
-![5](https://github.com/prembis2431/GPT_Clone_Netflix/assets/125336211/85d8c15a-96b3-465b-bbf2-a707f2effed3)
+![4](https://github.com/prembis2431/GPT_Clone_Netflix/assets/125336211/3c088731-bf9f-4828-8b14-a777db49410a)
 
-![6](https://github.com/prembis2431/GPT_Clone_Netflix/assets/125336211/171aa8d0-a6bf-49ed-9a7b-e9c49ec518ca)
+![5](https://github.com/prembis2431/GPT_Clone_Netflix/assets/125336211/8c610c03-4d56-4e40-902b-a0648f3fb27e)
 
-![7](https://github.com/prembis2431/GPT_Clone_Netflix/assets/125336211/0fe5ebab-b9db-49c7-b8d0-cd5e7821b3a5)
+![6](https://github.com/prembis2431/GPT_Clone_Netflix/assets/125336211/001a5563-4635-4822-955f-c9a143dd325e)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![7](https://github.com/prembis2431/GPT_Clone_Netflix/assets/125336211/da7efc5c-1d0f-41d8-8b58-97454a2cee58)
 
 
 
