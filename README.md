@@ -5,6 +5,14 @@ NetflixGPT is a dynamic movie recommendation web application built using ReactJS
 
 # Output
 
+
+
+
+https://github.com/prembis2431/GPT_Clone_Netflix/assets/125336211/1f0066aa-5250-46d9-b7b0-eb44a77ace7c
+
+
+
+
 ![1](https://github.com/prembis2431/GPT_Clone_Netflix/assets/125336211/b2b28611-4c16-4414-ae77-d46fe79327d8)
 
 ![2](https://github.com/prembis2431/GPT_Clone_Netflix/assets/125336211/f53843f1-b56a-4f49-90c8-7ec846f56a45)
