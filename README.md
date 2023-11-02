@@ -47,7 +47,7 @@ https://github.com/prembis2431/GPT_Clone_Netflix/assets/125336211/1f0066aa-5250-
 - Implemented Sign out
 - Update Profile
 - BugFix: Signup user display and profile picture update
-- BugFix: If the user is not logged in redirect /browse to login page and vice versa
+- BugFix: If the user is not logged in redirect /browse to the login page and vice versa
 - UnSubscribed to the on onAuthStateChanged callback
 - Add hardcoded values to the constant file
 - Register TMDB API & create an app & get access token
@@ -58,9 +58,9 @@ https://github.com/prembis2431/GPT_Clone_Netflix/assets/125336211/1f0066aa-5250-
 - Planning for MainContauiner & secondary container
 - Fetch Data for Trailer Video
 - Update Store with Trailer Video Data
-- Embedded the Yotube video and make it autoplay and mute
-- Tailwind Classes to make Main Container look pleasing
-- Build Secondary Container.
+- Embedded the YouTube video and make it autoplay and mute
+- Tailwind Classes to make the Main Container look pleasing
+- Build a Secondary Container.
 - Build Movie List
 - Build Movie Card
 - TMDB Image CDN URL
@@ -72,8 +72,8 @@ https://github.com/prembis2431/GPT_Clone_Netflix/assets/125336211/1f0066aa-5250-
 - GPT Search Bar
 - Gpt Search API Call
 - Fetched gptMoviesSuggestions from TMDB
-- Created gptSlice added data
-- Resused Movie List component to make movie suggestion container
+- Created gptSlice and added data
+- Reused Movie List component to make a movie suggestion container
 - Memoization - Memoization is used to optimize the performance of functions by caching the results   of expensive function calls and reusing those results when the same inputs occur again.
 - Added .env file
 - Adding .env file to gitignore
@@ -87,9 +87,6 @@ We've implemented a custom hook to manage state and logic across components effi
 
 # Language Change Option:
 Users can easily switch between languages to enjoy movie suggestions in their preferred language.
-
-# Infinite Scroll:
-Say goodbye to pagination! Our app uses infinite scroll for a seamless browsing experience.
 
 # Memoization:
 We've optimized performance using memoization techniques to prevent unnecessary renders.
